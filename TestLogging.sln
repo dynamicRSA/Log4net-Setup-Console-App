@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogging", "TestLogging\TestLogging.csproj", "{71B544F4-6836-453E-BBE9-70CA39622778}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogging", "TestLogging.csproj", "{71B544F4-6836-453E-BBE9-70CA39622778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
